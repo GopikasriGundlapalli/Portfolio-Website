@@ -3,21 +3,21 @@
 This portfolio website is a responsive and interactive web application designed to showcase my skills, projects, and contact information.
 
 FEATURES AND STRUCTURE :
-1. Purpose:
+1. PURPOSE:
 
 Showcases my technical expertise and professional journey in a structured and visually appealing way.
 
-2. Main Sections:
+2. MAIN SECTIONS:
 
-Home: Brief introduction and an overview of my passion for web development.
+HOME: Brief introduction and an overview of my passion for web development.
 
-About:
+ABOUT:
 
 Highlights my background and technical skills.
 
 Proficient in HTML, CSS, JavaScript, and React.
 
-Projects:
+PROJECTS:
 
 Showcases key projects, including:
 
@@ -27,11 +27,11 @@ AI Resume Crafter – A smart resume-building tool for creating professional, cu
 
 Task Manager App – A task management web app with features like adding, tracking, completing, and deleting tasks.
 
-Contact:
+CONTACT:
 
 Displays my email and LinkedIn profile for professional networking opportunities.
 
-3. Responsiveness & User Experience:
+3. RESPONSIVENESS & USER EXPERIENCE:
 
 The website is fully responsive, ensuring a seamless experience across desktops, tablets, and mobile devices.
 
