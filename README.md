@@ -15,7 +15,7 @@ ABOUT:
 
 Highlights my background and technical skills.
 
-Proficient in HTML, CSS, JavaScript, and React.
+Proficient in HTML, CSS and JavaScript.
 
 PROJECTS:
 
