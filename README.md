@@ -2,7 +2,7 @@
 
 This portfolio website is a responsive and interactive web application designed to showcase my skills, projects, and contact information.
 
-Features & Structure:
+FEATURES AND STRUCTURE :
 1. Purpose:
 
 Showcases my technical expertise and professional journey in a structured and visually appealing way.
@@ -21,7 +21,7 @@ Projects:
 
 Showcases key projects, including:
 
-3. Responsive Portfolio – A structured website representing my work.
+Responsive Portfolio – A structured website representing my work.
 
 AI Resume Crafter – A smart resume-building tool for creating professional, customizable resumes.
 
@@ -31,18 +31,18 @@ Contact:
 
 Displays my email and LinkedIn profile for professional networking opportunities.
 
-Responsiveness & User Experience:
+3. Responsiveness & User Experience:
 
 The website is fully responsive, ensuring a seamless experience across desktops, tablets, and mobile devices.
 
-Technologies Used:
+TECHNOLOGIES USED :
 4. HTML5: Structuring content for accessibility and readability.
 
 5. CSS3: Styling and enhancing visual appeal with responsive design.
 6. 
 7. JavaScript: Adding interactivity and dynamic behavior.
 
-Key Takeaways:
+KEY TAKEAWAYS :
 7. Strengthened my front-end development skills through this project.
 
 8. Gained experience in designing and implementing user-friendly, modern, and responsive websites.
