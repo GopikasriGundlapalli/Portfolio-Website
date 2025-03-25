@@ -46,5 +46,5 @@ KEY TAKEAWAYS :
 7. Strengthened my front-end development skills through this project.
 
 8. Gained experience in designing and implementing user-friendly, modern, and responsive websites.
-9. 
-10. The portfolio serves as both a professional showcase and a demonstration of my technical skills.
+ 
+9. The portfolio serves as both a professional showcase and a demonstration of my technical skills.
