@@ -39,8 +39,8 @@ TECHNOLOGIES USED :
 4. HTML5: Structuring content for accessibility and readability.
 
 5. CSS3: Styling and enhancing visual appeal with responsive design.
-6. 
-7. JavaScript: Adding interactivity and dynamic behavior.
+ 
+6. JavaScript: Adding interactivity and dynamic behavior.
 
 KEY TAKEAWAYS :
 7. Strengthened my front-end development skills through this project.
